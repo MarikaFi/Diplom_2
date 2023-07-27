@@ -1,0 +1,8 @@
+client\Client.class
+generator\ClientGenerator.class
+form\LoginForm.class
+form\CreateOrderForm.class
+form\CreateUserForm.class
+form\PatchForm.class
+client\OrdersClient.class
+client\StellarBurgersRestClient.class
